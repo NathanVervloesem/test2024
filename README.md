@@ -3,4 +3,4 @@ This a test repo for the git workshop. I have to make up some information to put
 
 This line is an edit while some developments are done in issue branch. haha this is fun
 
-And we are testing merge conflicts
+And we are testing merge conflicts. Yes indeed
